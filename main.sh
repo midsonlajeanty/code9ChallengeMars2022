@@ -1,0 +1,1 @@
+g++ ./dev/main.cpp ./dev/function.cpp -o main  && ./main
